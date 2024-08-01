@@ -5,6 +5,7 @@
 - [$search autocomplete multiple fields](https://search-playground.mongodb.com/tools/code-playground/snapshots/66a7b7cc893a66d9c6f9d62f)
 - [$search autocomplete multiple fields and highlights](https://search-playground.mongodb.com/tools/code-playground/snapshots/66a94d24c35e56cebe88aeb9)
 - [$search autocomplete embeddedDocuments](https://search-playground.mongodb.com/tools/code-playground/snapshots/66a7b68468f9633567082992)
+- [$search autocomplete embeddedDocuments and highlight](https://search-playground.mongodb.com/tools/code-playground/snapshots/66abaec2c35e56cebe88b5ac)
 - [$search autocomplete top field + embeddedDocuments](https://search-playground.mongodb.com/tools/code-playground/snapshots/66a7b8db893a66d9c6f9d640)
 - [$search string multi](https://search-playground.corp.mongodb.com/tools/code-playground/snapshots/66a8fafcc35e56cebe88ac95)
 - [$search embedded with score](https://search-playground.mongodb.com/snapshots/65fa01f9b3591eac1f0eccb5)
