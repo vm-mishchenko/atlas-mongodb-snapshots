@@ -16,3 +16,4 @@
 - [$search score](https://search-playground.mongodb.com/snapshots/65fa042c571c436e5dca2954)
 - [$searchMeta count total](https://search-playground.mongodb.com/snapshots/65fa04a0571c436e5dca2958)
 - [$searchMeta embedded with facets](https://search-playground.mongodb.com/snapshots/65fa01de571c436e5dca294e)
+- [$searchMeta stringFacet](https://search-playground.mongodb.com/tools/code-playground/snapshots/66b3d5e4628f5ce8c9f2e698)
