@@ -10,6 +10,8 @@
 - [$search string multi](https://search-playground.corp.mongodb.com/tools/code-playground/snapshots/66a8fafcc35e56cebe88ac95)
 - [$search embedded with score](https://search-playground.mongodb.com/snapshots/65fa01f9b3591eac1f0eccb5)
 - [$search equals ObjectId](https://search-playground.mongodb.com/snapshots/65fa020d571c436e5dca2952)
+- [$search equals boolean](https://search-playground.mongodb.com/tools/code-playground/snapshots/66bd6dc56bf1171c4d01e8ef)
+- [$search equals boolean multiple fields](https://search-playground.corp.mongodb.com/tools/code-playground/snapshots/66bd6e6e6bf1171c4d01e8f1)
 - [$search geoshape](https://search-playground.mongodb.com/snapshots/65fa0464b3591eac1f0eccb9)
 - [$search geowithin](https://search-playground.mongodb.com/snapshots/65fa0477b3591eac1f0eccbb)
 - [$search highlight results](https://search-playground.mongodb.com/snapshots/65fa04fb571c436e5dca295c)
