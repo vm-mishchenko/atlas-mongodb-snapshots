@@ -16,6 +16,7 @@
 - [$search geowithin](https://search-playground.mongodb.com/snapshots/65fa0477b3591eac1f0eccbb)
 - [$search highlight results](https://search-playground.mongodb.com/snapshots/65fa04fb571c436e5dca295c)
 - [$search score](https://search-playground.mongodb.com/snapshots/65fa042c571c436e5dca2954)
+- [$search scoreDetails](https://search-playground.corp.mongodb.com/tools/code-sandbox/snapshots/676067bdc8d94386500c7213)
 - [$searchMeta count total](https://search-playground.mongodb.com/snapshots/65fa04a0571c436e5dca2958)
 - [$searchMeta embedded with facets](https://search-playground.mongodb.com/snapshots/65fa01de571c436e5dca294e)
 - [$searchMeta stringFacet](https://search-playground.mongodb.com/tools/code-playground/snapshots/66b3d5e4628f5ce8c9f2e698)
